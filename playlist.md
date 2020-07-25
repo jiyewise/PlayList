@@ -86,6 +86,7 @@ _____
 > ##### Imagine Dragons - Night Visions (Album)
 > ##### Imagine Dragons - Evolve (Album)
 > ##### Imagine Dragons - Origin (Album)
+> ##### Fall Out Boy - M A N I A (Album)
 > ##### __[Britpop]__ 
 > ##### Coldplay - Mylo Xyloto
 > ##### Noel Gallagher's High Flying Birds (Band)
