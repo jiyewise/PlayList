@@ -108,11 +108,6 @@ _____
 3. The 1975
 
 4. Kygo
->1. [Kygo(feat. OneRepublic) - Lose Somebody]()
->2. [Kygo(feat. OneRepublic) - Stranger Things]()
->3. [Kygo - Firestone]()
->4. [Kygo - Stargazing]()
->
 
 5. Maroon 5 (after 2012)
 > ##### Overexposed (album)
