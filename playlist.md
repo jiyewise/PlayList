@@ -75,15 +75,12 @@ _____
 > ##### __[Britpop]__ 
 > ##### Coldplay - Mylo Xyloto
 > ##### Noel Gallagher's High Flying Birds (Band)
-> > 1. [If I Had a Gun]()
 
 ## Pop
 ---
 
 * #### Covers
 1. [Boyce Avenue](https://www.youtube.com/watch?v=uzgp65UnPxA)
- > 1. [Poplular Playlists of 2020](https://youtu.be/SHG6ihWnJYE)
- > 2. [Poplular Playlists of 2019](https://youtu.be/CYFKL_ta7rA)
 
 * #### Man Vocals
 1. Troye Sivan
