@@ -17,24 +17,9 @@ _____
 * #### 1980
 
 > ##### U2 - The Joshua Tree (Album)
->> 1. [I Still Haven't Found What I'm Looking For]()
->> 2. [With or Without You]()
->> 3. [Where The Streets Have No Name]()
-
 > ##### Bon Jovi - Slippery When Wet (Album)
->> 1. [Living on a Prayer]()
->> 2. [Wanted Dead or Alive]()
->> 3. [You Give Love a Bad Name]()
 > ##### AC/DC - Back in Black (Album)
-> > 1. [Back in Black]()
-> > 2. [Highway to Hell]()
-> > 
 > ##### Journey (Band)
-> > 1. [Don't Stop Believin']()
-> > 2. [Any Way You Want It]()
-> > 3. [Open Arms]()
-> > 4. [Faithfully]()
-> > 
 > ##### The Scorpions (Band)
 > ##### Poison (Band)
 
